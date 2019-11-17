@@ -1,2 +1,2 @@
 # Pandas-Notes
-Pandas HomeWork
+Tutorial on data Processing, linera algebra and data visualization libraries in python.
